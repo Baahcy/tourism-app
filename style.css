@@ -1,0 +1,111 @@
+.footer1 {
+    width: 100%;
+    float: left;
+    text-align: center;
+    background-color: black;
+
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0px;
+
+}
+
+.social_media {
+    float: center;
+    margin: 5px auto;
+    padding: 5px;
+}
+
+.social_media ul li {
+    list-style: none;
+    display: inline-table;
+    margin: 0px auto;
+    float: center;
+
+}
+
+
+
+
+
+.news {
+    float: right;
+    background-color: red;
+    width: 35%;
+    margin: 5px;
+    padding: 5px;
+    margin-bottom: 10px;
+
+}
+
+.news1 {
+    float: left;
+    background-color: red;
+    width: 35%;
+    margin: 20px;
+    padding: 10px;
+
+}
+
+
+
+.content {
+    background-color: blue;
+    width: 63%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+
+.content1 {
+    background-color: azure;
+    ;
+    width: 63%;
+    float: left;
+    padding: 10px;
+    text-align: center;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin: 10px;
+
+
+}
+
+.color {
+    background-color: black;
+}
+
+
+
+.contentarea {
+    background-color: white;
+    margin: 10px;
+    padding: 20px;
+    height: 5px;
+}
+
+figcaption {
+    color: deepskyblue;
+    padding: 10px;
+}
+
+.avatar {
+    vertical-align: middle;
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+}
+
+.team {
+    padding-bottom: 20px;
+    text-align: center;
+}
